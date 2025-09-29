@@ -118,8 +118,5 @@ bus stand.html
 ![alt text](<Screenshot (39).png>) ![alt text](<Screenshot (34) - Copy.png>) ![alt text](<Screenshot (34).png>) ![alt text](<Screenshot (35).png>) ![alt text](<Screenshot (36).png>) ![alt text](<Screenshot (37).png>)
 
 
-
-
-
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.

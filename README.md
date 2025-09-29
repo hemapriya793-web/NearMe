@@ -115,8 +115,7 @@ bus stand.html
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (22).png>) ![alt text](<Screenshot (17).png>) ![alt text](<Screenshot (18).png>) ![alt text](<Screenshot (19).png>) ![alt text](<Screenshot (20).png>) ![alt text](<Screenshot (21).png>)
-
+![alt text](<Screenshot (39).png>) ![alt text](<Screenshot (34) - Copy.png>) ![alt text](<Screenshot (34).png>) ![alt text](<Screenshot (35).png>) ![alt text](<Screenshot (36).png>) ![alt text](<Screenshot (37).png>)
 
 
 
